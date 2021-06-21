@@ -1,0 +1,1 @@
+// paste project firebase config
