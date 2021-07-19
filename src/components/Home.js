@@ -6,11 +6,11 @@ const Home = () => {
   return (
     <div className="home">
       <div className="home__container">
-        <img
-          className="home__image"
-          src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
-          alt="hero_image"
-        />
+          <img
+            className="home__image"
+            src="https://images-eu.ssl-images-amazon.com/images/G/02/digital/video/merch2016/Hero/Covid19/Generic/GWBleedingHero_ENG_COVIDUPDATE__XSite_1500x600_PV_en-GB._CB428684220_.jpg"
+            alt="hero_image"
+          />
 
         <div className="home__row">
           <Product
@@ -21,10 +21,10 @@ const Home = () => {
           />
           <Product
             id="495380"
-            title="Kenwood mouse"
+            title="Kenwood Stand Mixer"
             price={239.0}
             rating={4}
-            image="https://media.gettyimages.com/photos/logitech-g400-pc-mouse-during-a-studio-shoot-for-pc-gamer-via-getty-picture-id150656676?k=6&m=150656676&s=612x612&w=0&h=qP0By0OBh2WZPMpOPLWREPDP5EAPmRgqg3v6QmznFfE="
+            image="https://media.gettyimages.com/photos/red-stand-up-kitchen-mixer-isolated-on-white-picture-id155151605?k=6&m=155151605&s=612x612&w=0&h=fby9I5tZCjnnLrnKMXmbCh4eI736-BSXNrBD0v2eDC8="
           />
         </div>
 
