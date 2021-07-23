@@ -35,3 +35,5 @@ function App() {
 }
 
 export default App;
+
+// github.com/CleverProgrammers/react-challenge-amazon-clone
