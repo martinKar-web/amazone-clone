@@ -13,6 +13,7 @@
   border: 1px solid #a88734;
   margin-top: 10px;
   color: #111;
+  cursor: pointer;
 }
 
 .checkoutProduct__image{

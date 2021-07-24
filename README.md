@@ -2,6 +2,6 @@
 ### It is hosted here:
 https://ammazone-clone.netlify.app/
 
-# Stack
+# Tech Stack
 - Front-End - React
-- BackEnd - Firebase 
+- BackEnd - Firebase
